@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * Features
      * Add Patient Records
      * List Patient Records
