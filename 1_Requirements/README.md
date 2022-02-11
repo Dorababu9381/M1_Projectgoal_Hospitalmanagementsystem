@@ -31,6 +31,3 @@
   * The details can also be deleted when patient is no longer suffering from his problems.
 * Low level Requirements
   * If the details are added successfully, it asks if you want to add more details or not. 
-=======
-
->>>>>>> b44d5c5c99c9f6cf80638a9dea57f80979f57bbf
