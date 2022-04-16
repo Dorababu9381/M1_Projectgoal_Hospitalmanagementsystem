@@ -1,7 +1,9 @@
 # M1_Projectgoal_Hospitalmanagementsystem
 This is about Hospital Management System
-![Code grade](https://api.codiga.io/project/31134/status/svg)
-![code quality](https://api.codiga.io/project/31134/score/svg)
+
+![code Score](https://api.codiga.io/project/32799/score/svg)
+![code quality](https://api.codiga.io/project/32799/status/svg)
+
 <a href="https://app.codiga.io/public/user/github/Dorababu9381">
    <img src="https://api.codiga.io/public/badge/user/github/Dorababu9381?style=light" alt="codiga badge" />
 </a>
